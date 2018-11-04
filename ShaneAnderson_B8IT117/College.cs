@@ -5,8 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Unit testing was causing errors when compling so I left it out as I don't much time before exams
-//Visual Studio does unit testing for you :)
+
 
 namespace ShaneAnderson_B8IT117
 {

@@ -16,7 +16,7 @@ namespace ShaneAnderson_B8IT117
     //Auto Implemented Properties - Get & Set
     //Overide tostring for each entity class - helpful when debugging
     //ToString Method - Public overide string ToString()
-    //Email & Phone Number Validation
+    //Email & Phone Number Validation - Regex
 
     public class Person
     {
